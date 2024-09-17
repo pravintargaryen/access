@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Truffle build artifacts
+build/
+
+# Truffle artifacts and contracts
+contracts/*.json
+contracts/*.dbg
+
+# Ganache local blockchain data
+*.log
+*.pid
+*.pid.lock
+
+# Compiled contracts
+*.sol
+
+# Environment files
+.env
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
